@@ -1,5 +1,13 @@
 # Sistem Reservasi Hotel
+<div align="center">
 
+![Framework](https://img.shields.io/badge/Framework-Laravel-red)
+![CSS](https://img.shields.io/badge/CSS-Tailwind-38BDF8)
+![JS](https://img.shields.io/badge/JS-Alpine.js-8BC0D0)
+![Database](https://img.shields.io/badge/Database-MySQL-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+</div>
 Aplikasi web reservasi hotel berbasis **Laravel 13** (PHP 8.4) dengan backend **MySQL** dan frontend **Tailwind CSS v4 + Alpine.js + Chart.js**. Dokumentasi proyek (PRD & desain UI/UX) ada di `.agents/prd.md` dan `.agents/design.md` — ditulis dalam Bahasa Indonesia.
 
 ## Fitur
